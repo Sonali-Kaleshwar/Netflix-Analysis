@@ -93,5 +93,5 @@ The Power BI dashboard provides actionable insights into Netflix’s content lib
 
 - Enhance audience engagement by prioritizing highly rated genres.
 
-![Dashboard Image](https://github.com/Sonali-Kaleshwar/PowerBI-Reports/blob/15b826e00669fbf4d7b849f9b3769d64de367bbe/Screenshot%202025-01-11%20213246.png)
+![Dashboard Image](https://github.com/Sonali-Kaleshwar/Netflix-Analysis/blob/dc871953ee2af530f70559024cc3449888bae496/Screenshot%202025-01-13%20190339.png)
 
